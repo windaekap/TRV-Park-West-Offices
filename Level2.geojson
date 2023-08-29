@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "name": "Level2",
+    "name": "Level2_V2",
     "crs": {
         "type": "name",
         "properties": {
@@ -2963,7 +2963,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -3006,7 +3006,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -3049,7 +3049,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -3218,7 +3218,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -4236,7 +4236,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -4283,7 +4283,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -4634,7 +4634,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -4677,7 +4677,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -5055,7 +5055,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -5122,7 +5122,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -5189,7 +5189,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -5256,7 +5256,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -5391,7 +5391,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -5506,7 +5506,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -5854,7 +5854,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -5897,7 +5897,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -6146,7 +6146,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -6233,7 +6233,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -6316,7 +6316,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -6391,7 +6391,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -6482,7 +6482,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -6561,7 +6561,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -6640,7 +6640,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -6715,7 +6715,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -6798,7 +6798,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -7169,7 +7169,7 @@
                 "floor": 2,
                 "baseheight": 300,
                 "height": 600,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 5.5,
                 "height_": 6.0
             },
@@ -13344,7 +13344,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -13387,7 +13387,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -13430,7 +13430,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -13473,7 +13473,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -13516,7 +13516,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -13559,7 +13559,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -13602,7 +13602,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -13645,7 +13645,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -13688,7 +13688,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -13755,7 +13755,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -13822,7 +13822,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -13889,7 +13889,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -14024,7 +14024,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -14139,7 +14139,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -14354,7 +14354,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -14397,7 +14397,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -14464,7 +14464,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -14547,7 +14547,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -14626,7 +14626,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -14701,7 +14701,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -14788,7 +14788,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -14867,7 +14867,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -14946,7 +14946,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -15021,7 +15021,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -15104,7 +15104,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
@@ -15231,7 +15231,7 @@
                 "floor": null,
                 "baseheight": null,
                 "height": null,
-                "color": null,
+                "color": "cornsilk",
                 "bsheight": 3.0,
                 "height_": 4.0
             },
