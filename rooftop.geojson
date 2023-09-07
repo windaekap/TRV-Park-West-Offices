@@ -4113,7 +4113,7 @@
                 "Name": null,
                 "Type": "door",
                 "floor": 12,
-                "color": "cornsilk",
+                "color": "grey",
                 "bsheight": 35.5,
                 "height_": 36.0
             },
@@ -4154,7 +4154,7 @@
                 "Name": null,
                 "Type": "door",
                 "floor": 12,
-                "color": "cornsilk",
+                "color": "grey",
                 "bsheight": 35.5,
                 "height_": 36.0
             },
